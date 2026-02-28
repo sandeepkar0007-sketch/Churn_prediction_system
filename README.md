@@ -56,7 +56,9 @@ Confusion Matrix
 Note: Recall is particularly important in churn prediction to correctly identify customers who are likely to leave.
 
 🚀 How to Run the Project
+
 1️⃣ Clone the Repository
+
 git clone 
 https://github.com/your-username/customer-churn-prediction.git
 
