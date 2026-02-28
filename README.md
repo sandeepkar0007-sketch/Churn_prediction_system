@@ -57,7 +57,8 @@ Note: Recall is particularly important in churn prediction to correctly identify
 
 🚀 How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/customer-churn-prediction.git
+git clone 
+https://github.com/your-username/customer-churn-prediction.git
 
 Open the Jupyter Notebook:
 jupyter notebook notebooks/churn_analysis.ipynb
