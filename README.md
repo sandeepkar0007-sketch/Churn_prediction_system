@@ -2,6 +2,7 @@
 
 📊 Customer Churn Prediction Model
 📌 Project Overview
+
 This project implements a Customer Churn Prediction Model using Machine Learning techniques.
 The objective is to predict whether a customer is likely to discontinue a service based on historical data.
 
@@ -15,6 +16,7 @@ High churn rates can:
 Reduce revenue
 Increase customer acquisition costs
 Affect long-term business growth
+
 This project aims to:
 
 Analyze customer data
@@ -32,20 +34,26 @@ Churn status (Target Variable)
 Target Variable:
 0 → Customer Retained
 1 → Customer Churned
+
 ⚙️ Machine Learning Workflow
+
 1️⃣ Data Preprocessing
 Handling missing values
 Encoding categorical features
 Feature scaling
+
 2️⃣ Exploratory Data Analysis (EDA)
 Data visualization
 Correlation analysis
 Class imbalance analysis
+
 3️⃣ Model Building
 Algorithm used includes:
 
 Logistic Regression
+
 4️⃣ Model Evaluation
+
 Metrics used:
 
 Accuracy
@@ -66,6 +74,7 @@ Open the Jupyter Notebook:
 jupyter notebook notebooks/churn_analysis.ipynb
 
 🛠 Technologies Used
+
 Python
 Pandas
 NumPy
