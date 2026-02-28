@@ -57,10 +57,15 @@ Logistic Regression
 Metrics used:
 
 Accuracy
+
 Precision
+
 Recall
+
 F1-Score
+
 Confusion Matrix
+
 Note: Recall is particularly important in churn prediction to correctly identify customers who are likely to leave.
 
 🚀 How to Run the Project
@@ -76,12 +81,19 @@ jupyter notebook notebooks/churn_analysis.ipynb
 🛠 Technologies Used
 
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Matplotlib
+
 Seaborn
+
 Jupyter Notebook
+
 
 📈 Business Impact
 Using churn prediction, businesses can:
